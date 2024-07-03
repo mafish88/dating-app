@@ -20,7 +20,7 @@ export default class Landing extends Component {
           />
         </Center>
         <Center horizontal>
-          <Text style={styles.text}>DARKR</Text>
+          <Text style={styles.text}>Valor</Text>
         </Center>
         <View style={styles.rect2}>
           <Text style={styles.text2}>Terms of Service</Text>
