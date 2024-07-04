@@ -44,7 +44,7 @@ export default class Landing extends Component {
           />
         </Center>
         <Center horizontal>
-          <Text style={styles.text5}>DARKR</Text>
+          <Text style={styles.text5}>Valor</Text>
         </Center>
         <View style={styles.rect5}>
           <Text style={styles.text6}>Terms of Service</Text>
