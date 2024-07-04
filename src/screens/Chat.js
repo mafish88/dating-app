@@ -21,7 +21,7 @@ export default class Chat extends Component {
           type="MaterialCommunityIcons"
         />
         <Center horizontal>
-          <Text style={styles.text}>FLIRT</Text>
+          <Text style={styles.text}>Wink</Text>
         </Center>
         <FlatList
           style={styles.list}
