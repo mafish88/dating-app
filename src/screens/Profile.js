@@ -28,7 +28,7 @@ export default class Profile extends Component {
           type="MaterialCommunityIcons"
         />
         <Center horizontal>
-          <Text style={styles.text}>YOU</Text>
+          <Text style={styles.text}>You</Text>
         </Center>
         <Text style={styles.text2}>Jon Snow, 18</Text>
         <Icon

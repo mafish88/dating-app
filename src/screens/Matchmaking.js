@@ -42,7 +42,7 @@ export default class Matchmaking extends Component {
         <Center horizontal>
           <Text style={styles.text}>Valor</Text>
         </Center>
-        <Text style={styles.text2}>Jon Snow, 18</Text>
+        <Text style={styles.text2}>John Adams, 24</Text>
         <Center horizontal>
           <Icon
             name="information"
