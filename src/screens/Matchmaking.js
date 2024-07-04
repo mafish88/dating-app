@@ -40,7 +40,7 @@ export default class Matchmaking extends Component {
           type="MaterialCommunityIcons"
         />
         <Center horizontal>
-          <Text style={styles.text}>DARKR</Text>
+          <Text style={styles.text}>Valor</Text>
         </Center>
         <Text style={styles.text2}>Jon Snow, 18</Text>
         <Center horizontal>
